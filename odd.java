@@ -1,5 +1,3 @@
-/* package whatever; // don't place package name! */
-
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -17,7 +15,7 @@ class Ideone
 		{
 			if(i%2!=0)
 			{
-				System.out.println(i);
+				System.out.print(i+" ");
 			}
 		}
 	}
